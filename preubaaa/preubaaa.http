@@ -1,0 +1,6 @@
+@preubaaa_HostAddress = http://localhost:5025
+
+GET {{preubaaa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
