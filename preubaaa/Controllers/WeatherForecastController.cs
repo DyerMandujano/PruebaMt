@@ -8,7 +8,7 @@ namespace preubaaa.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Primavera", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Primavera", "Invierno", "Chilly", "Verano", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
